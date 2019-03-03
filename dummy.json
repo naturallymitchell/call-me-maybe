@@ -1,0 +1,10 @@
+{
+  "bicycles": [
+    "road bike",
+    "mountain bike",
+    "fixed gear",
+    "hybrid",
+    "cargo bike",
+    "velomobile"
+  ]
+}
